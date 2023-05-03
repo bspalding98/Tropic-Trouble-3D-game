@@ -1,6 +1,8 @@
 # Tropic-Trouble-3D-game
 This was a University group project completed in the final year of my studies.
 The task was to make a 3D game with the theme of Tropical North Queensland.
+The game utilises AI for the other animal objects in the game for routes and also detection.
+The map is also procedurally generated.
 
 The repository has zip files for the windows build, code, presentation, and demo videos.
 
